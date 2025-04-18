@@ -5,8 +5,22 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1743187169928,
-      "tag": "0000_absent_fallen_one",
+      "when": 1745009723806,
+      "tag": "0000_gifted_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1745010096410,
+      "tag": "0001_high_patriot",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1745012198051,
+      "tag": "0002_typical_bug",
       "breakpoints": true
     }
   ]
