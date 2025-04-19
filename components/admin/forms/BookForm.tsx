@@ -131,6 +131,7 @@ const BookForm = ({ type, ...book }: Props) => {
               <FormControl>
                 <Input
                   type="number"
+                  step="any" // Allow floating point numbers
                   min={1}
                   max={5}
                   placeholder="Book rating"
